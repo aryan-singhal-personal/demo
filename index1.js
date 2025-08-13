@@ -1,1 +1,1 @@
-This is another new file
+This is another new index1.js
