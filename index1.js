@@ -1,2 +1,2 @@
 This is another new file
-feature1
+feature2
