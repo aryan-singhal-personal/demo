@@ -3,3 +3,4 @@ feature2
 feature3
 feature4
 main2
+reset
